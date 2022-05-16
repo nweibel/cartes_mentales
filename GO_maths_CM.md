@@ -67,11 +67,3 @@ maxWidth: 600
 
 ### Faire part de sa motivation, \\de son intérêt, de sa curiosité <!--fold-->
 #### Je suis un élève de seconde, je suis d’une nature curieuse, \\qu’est-ce que je peux découvrir dans telle spécialité ?
-
-
-
-
-### Possibilité d'utiliser un \\ **fichier externe**
-
-
-	- \\ `https://mymarkmap.vercel.app/#URL`
