@@ -67,3 +67,6 @@ maxWidth: 600
 
 ### Faire part de sa motivation, \\de son intérêt, de sa curiosité <!--fold-->
 #### Je suis un élève de seconde, je suis d’une nature curieuse, \\qu’est-ce que je peux découvrir dans telle spécialité ?
+
+## sources
+### formation magistere : Préparer et évaluer le Grand Oral \\groupe académique Grand oral de l'académie de Poitiers
