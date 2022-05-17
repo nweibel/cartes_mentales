@@ -35,7 +35,7 @@ maxWidth: 600
 #### [méthode du poster scientifique](https://bu.univ-larochelle.fr/actualites/concevoir-un-poster-scientifique/)
 ### pour préparer des questions sur une thématique : visite, rencontre
 
-## Présentation orales en classes <!--fold-->
+## Présentation orales en classe <!--fold-->
 
 ### synthèses de travaux de groupes (avec ou sans support)
 ### exposés
@@ -59,6 +59,10 @@ maxWidth: 600
 ### [mon oral.net](https://www.mon-oral.net)
 #### enregistrements libres par les élèves
 #### enregistrement en réponse à une consigne d'enseignant
+
+###[vocaroo](https://vocaroo.com)
+#### enregistrements libres par les élèves
+#### mise à disposition d'un lien de partage, d'un QR-code
 
 ### dictaphone de l'ENT
 #### s'enregistre dans "Documents ajoutés dans les applis"
