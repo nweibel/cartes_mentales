@@ -26,6 +26,8 @@ maxWidth: 600
 ### pour réaliser la synthèse d'une séquence
 ### pour présenter une technique
 ### pour présenter un projet (ex : YesWeCode!)
+### pour résoudre un problème/une énigme
+#### [Les énigmes de l'action enigMATHum 2022 (Poitiers)](https://ww2.ac-poitiers.fr/math/spip.php?article1195)
 
 ## Réalisation de capsules audio <!--fold-->
 ### pour présenter des formations scientifiques post-bac
