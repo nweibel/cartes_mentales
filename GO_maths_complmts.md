@@ -50,11 +50,6 @@ maxWidth: 600
 ### Grand oral blanc organisé au sein du lycée \\jury constitué des deux profs de spécialité
 
 
-## Ressources généralistes <!--fold-->
-### [les petits tutos Lumni](https://www.lumni.fr/programme/les-petits-tutos-du-grand-oral)
-
-### appli Vocal'ize (MGEN)
-
 ## S'enregistrer et garder une trace \\de ses enregistrements <!--fold-->
 ### [mon oral.net](https://www.mon-oral.net)
 #### enregistrements libres par les élèves
@@ -74,3 +69,8 @@ maxWidth: 600
 ### Retracer la chronologie de ses oraux, \\de son cheminement  :
 #### frise chronologique
 #### cahier multimédia
+
+## Ressources généralistes <!--fold-->
+### [les petits tutos Lumni](https://www.lumni.fr/programme/les-petits-tutos-du-grand-oral)
+
+### appli Vocal'ize (MGEN)
