@@ -40,7 +40,7 @@ maxWidth: 600
 ### synthèses de travaux de groupes (avec ou sans support)
 ### exposés
 #### [thèmes en 1re G (Frédéric Junier)](https://parc-nsi.github.io/parcmaths/premiere/sujets_oral/)
-
+### synthèse de ressources à consulter en amont d'un cours
 
 ### Oraux blancs du GO en petits groupes \\soit par affinité soit par "proximité" des thèmes \\des questions choisies
 #### rôles : élève,  prof de spécialité et prof candide.
@@ -60,7 +60,7 @@ maxWidth: 600
 #### enregistrements libres par les élèves
 #### enregistrement en réponse à une consigne d'enseignant
 
-###[vocaroo](https://vocaroo.com)
+### [vocaroo](https://vocaroo.com)
 #### enregistrements libres par les élèves
 #### mise à disposition d'un lien de partage, d'un QR-code
 
