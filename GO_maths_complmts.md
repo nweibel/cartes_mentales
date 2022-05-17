@@ -39,7 +39,8 @@ maxWidth: 600
 
 ### synthèses de travaux de groupes (avec ou sans support)
 ### exposés
-#### [thèmes en 1re G (Frédéric Junier)](https://parc-nsi.github.io/parcmaths/premiere/sujets_oral/)
+#### [thèmes en maths, 1re G (Frédéric Junier)](https://parc-nsi.github.io/parcmaths/premiere/sujets_oral/)
+#### [thèmes en NSI, 1re G (Nathalie Weibel)](https://www.carnets.info/nsi_premiere/exposes/)
 ### synthèse de ressources à consulter en amont d'un cours
 
 ### Oraux blancs du GO en petits groupes \\soit par affinité soit par "proximité" des thèmes \\des questions choisies
