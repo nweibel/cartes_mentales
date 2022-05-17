@@ -29,6 +29,7 @@ maxWidth: 600
 
 ## Réalisation de capsules audio <!--fold-->
 ### pour présenter des formations scientifiques post-bac
+#### [Exemple en 1re Spé NSI](https://www.carnets.info/nsi_premiere/orientation/#1-decouvrir-les-parcours-detudes-en-informatique)
 ### pour présenter un exposé sans support visuel
 ### pour présenter un poster scientifique, ajouter un qr-code \\dans le poster pour permettre l'accès à l'audio.
 #### [un exemple de poster de chercheur](https://orfee.hepl.ch/handle/20.500.12162/4277)
